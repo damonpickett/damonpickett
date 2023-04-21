@@ -1,4 +1,6 @@
-![eyes-open](./assets/cyberpunk-eyes-open.gif)
+<div style='text-align: center;'>
+<img src='./assets/cyberpunk-eyes-open.gif' alt='open-eyes'>
+</div>
 
 # Hi, I'm Damon Pickett
  ...and I build AI powered apps. I've built a bunch of front-end interfaces for mock NFT projects as well using React and Solidity. Who are you? Is there anything I can help you with?

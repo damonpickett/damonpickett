@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I'm Damon Pickett
- ...and I build AI powered apps. I've built a bunch of front-end interfaces for mock NFT projects as well using React and Solidity. Who are you? Is there anything I can help you with?
+ I'm a front-end developer and AI specialist. Who are you? Is there anything I can help you with?
 
 # The Why
 I code because I love to build. When I'm building it's like I step outside of time. I'm also an excellent communicator. You know when you call a call centre and an automated message says "Your call may be monitored for quality and training purposes"? Well I used to be the guy monitoring calls for quality and training purposes. I've spent countless hours evaluating people's interactions. So I want to combine my passion for building with my skills in communication to create value for others.
